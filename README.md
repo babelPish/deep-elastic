@@ -1,2 +1,2 @@
-# 소비자On
-* http://psygement.github.io/conpsy/
+# 딥엘라스틱
+* http://babelpish.github.io/deep-elastic/
